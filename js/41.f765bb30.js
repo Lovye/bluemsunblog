@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkblumsunblog"]=self["webpackChunkblumsunblog"]||[]).push([[41],{9041:function(n,u,e){e.r(u),e.d(u,{default:function(){return b}});var l=e(3396);const r=(0,l._)("p",null,"welcome",-1),t=[r];function c(n,u){return(0,l.wg)(),(0,l.iD)("div",null,t)}var s=e(89);const o={},a=(0,s.Z)(o,[["render",c]]);var b=a}}]);
+//# sourceMappingURL=41.f765bb30.js.map
